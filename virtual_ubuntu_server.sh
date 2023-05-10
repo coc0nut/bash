@@ -3,7 +3,7 @@
 # Depending on your answers, it sets up networkinterfaces, dhcp-server and iptables rules.
 # It's for personal purposes. Not intended for public use.
 
-# Author Harald Trohne
+# Author coc0nut
 
 #!/bin/bash
 # run as sudo
